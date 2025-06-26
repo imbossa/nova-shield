@@ -1,5 +1,5 @@
 {
-    "name": "ferdiunal/nova-shield",
+    "name": "imbossa/nova-shield",
     "description": "A Laravel Nova package to manage permissions and roles.",
     "authors": [
         {
@@ -43,7 +43,7 @@
     "require": {
         "php": "^8.2",
         "laravel/framework": "^10.0|^11.0",
-        "laravel/nova": "^4.0",
+        "laravel/nova": "^4.0|^4.0",
         "spatie/laravel-permission": "^6.9"
     },
     "autoload": {
